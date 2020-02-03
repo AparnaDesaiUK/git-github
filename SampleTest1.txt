@@ -1,1 +1,3 @@
 this is first code file
+
+I am .net developer and I dveloping and gaming project
